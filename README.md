@@ -1,0 +1,2 @@
+# Terraria.gif
+Terraria.game
